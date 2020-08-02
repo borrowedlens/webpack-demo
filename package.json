@@ -20,7 +20,8 @@
     "url-loader": "^4.0.0",
     "webpack": "^4.42.0",
     "webpack-dev-server": "^3.10.3",
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.19",
+    "elliptic": ">=6.5.3"
   },
   "dependencies": {
     "@babel/core": "^7.8.7",
